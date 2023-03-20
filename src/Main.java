@@ -80,7 +80,6 @@ public class Main {
         for (int b = 0; b <= 10; b++) {
             System.out.println("2*" + b + "=" + (2*b));
         }
-
     }
 
 }
